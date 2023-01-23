@@ -49,4 +49,14 @@
   .title {
     font-size: 25px
   }
-  
+
+  .text-body{
+    font-size :18px;
+  }
+  .card-title{
+    font-size: 25px;
+  }
+
+  .card-text{
+    font-size: 18px;
+  }
